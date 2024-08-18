@@ -16,7 +16,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
   - Run the main script using `python voice_assistant.py`.
 - **Video Demonstration:** [https://youtu.be/AAWxOS6OnKY?feature=shared]
 
-### 2. BMI Calculator
+### 2. Body Mass Index Calculator
 - **Description:** A simple BMI calculator that takes user input and calculates BMI.
 - **Features:**
   - Calculates BMI based on height and weight.
@@ -26,7 +26,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
   - Run the main script using `python bmi_calculator.py`.
 - **Video Demonstration:** [Link to Video]
 
-### 3. Simple Password Generator
+### 3. Password Generator
 - **Description:** A password generator that creates strong, random passwords.
 - **Features:**
   - Generates passwords of a specified length.
