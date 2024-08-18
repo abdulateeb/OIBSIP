@@ -14,7 +14,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 - **Setup Instructions:**
   - Install the required libraries using `pip install -r requirements.txt`.
   - Run the main script using `python voice_assistant.py`.
-- **Video Demonstration:** [Link to Video]
+- **Video Demonstration:** [https://youtu.be/AAWxOS6OnKY?feature=shared]
 
 ### 2. BMI Calculator
 - **Description:** A simple BMI calculator that takes user input and calculates BMI.
