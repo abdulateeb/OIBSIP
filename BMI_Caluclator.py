@@ -6,13 +6,13 @@ BMI = weight / (height_in_meters**2)
 print(BMI)
 
 if  (BMI < 16):
-    print ("You are severely underweight"), BMI
+    print ("Your weight is significantly below the healthy range."), BMI
 
 elif (BMI >= 16 and BMI < 18.5):
-    print ("You are underweight"), BMI
+    print ("Your weight is below the recommended range."), BMI
     
 elif (BMI >= 25 and BMI < 30):
-    print ("You are overweight"), BMI
+    print ("You're carrying a bit more weight than necessary!"), BMI
     
 elif (BMI >=30):
     print ("You are obese"), BMI
