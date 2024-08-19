@@ -24,7 +24,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 - **Technologies Used:** Python.
 - **Setup Instructions:**
   - Run the main script using `python bmi_calculator.py`.
-- **Video Demonstration:** [Link to Video]
+- **Video Demonstration:** [https://www.linkedin.com/posts/abdulateeb_oasisinfobyte-python3programming-activity-7231325060127416320-LKtj?utm_source=share&utm_medium=member_desktop]
 
 ### 3. Password Generator
 - **Description:** A password generator that creates strong, random passwords.
@@ -34,6 +34,6 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 - **Technologies Used:** Python.
 - **Setup Instructions:**
   - Run the main script using `python password_generator.py`.
-- **Video Demonstration:** [Link to Video]
+- **Video Demonstration:** [https://www.linkedin.com/posts/abdulateeb_oasisinfobyte-python3programming-activity-7231325580376358912-f0kX?utm_source=share&utm_medium=member_desktop]
 
 
